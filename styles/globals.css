@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Applying colour in base */
+
+@layer base {
+  body {
+    @apply bg-[#0f172a] text-gray-400;
+  }
+}

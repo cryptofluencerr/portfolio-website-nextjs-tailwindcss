@@ -8,17 +8,19 @@ function Navbar() {
       justify-start bg-[#1e293b] w-full"
     >
       <Link href="/">
-        <a className="sm:mx-4 flex font-bold  text-white ">
+        <a className="sm:mx-4 flex font-bold text-white ">
           <h2 className="text-2xl">Krn Chauhan</h2>
         </a>
       </Link>
       <nav className="sm:border-l border-gray-700 sm:inline-flex sm:mx-5">
         <div className="p-2 text-xl">
           <Link href="#projects">
-            <a className="sm:mx-6 mr-6  hover:text-white">Past Work</a>
+            <a className="sm:mx-6 mr-6 font-medium hover:text-white">
+              Past Work
+            </a>
           </Link>
           <Link href="#skills">
-            <a className=" hover:text-white">Skills</a>
+            <a className=" hover:text-white font-medium">Skills</a>
           </Link>
         </div>
       </nav>

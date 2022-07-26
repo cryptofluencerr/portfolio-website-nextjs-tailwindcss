@@ -13,9 +13,9 @@ function Projects() {
             Apps I&apos;ve Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+          I am a self taught programmer having 1+ experience in making
+            Fullstack and Decentralised Applications, below mentioned are some
+            of my projects that I have built in a course of more than one year.
           </p>
         </div>
         <div className="flex flex-wrap justify-center">

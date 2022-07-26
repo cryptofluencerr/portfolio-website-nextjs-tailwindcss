@@ -24,6 +24,20 @@ export const projects = [
     url: "https://warlands.io/presale",
     image: "/images/projectImages/warlands.png",
   },
+  {
+    title: "Hulu Clone",
+    description:
+      "With a follow along video of Sonny Sangha on Youtube I have made this clone.",
+    url: "https://hulu-clone-nextjs-tailwind-iota.vercel.app/",
+    image: "/images/projectImages/huluClone.png",
+  },
+  {
+    title: "Glassmorphism",
+    description:
+      "This is one of the project I have made while I was starting with my coding journey.",
+    url: "https://glassmorphism-login-page-validation.vercel.app/",
+    image: "/images/projectImages/glassmorphism.png",
+  },
 ];
 
 export const skills = [

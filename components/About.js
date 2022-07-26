@@ -14,10 +14,26 @@ function About() {
             <br className="inline-block" />I love to build amazing web Dapps.
           </h2>
           <p className=" leading-relaxed">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae
-            quas eum necessitatibus libero nobis, fugit neque officiis at
-            excepturi numquam consectetur aspernatur temporibus laborum fuga
-            rem. Sapiente sit neque id?
+            Currently working at{" "}
+            <a
+              className="underline hover:text-white"
+              target="blank"
+              href="https://warlands.io/team"
+            >
+              {" "}
+              Warlands
+            </a>{" "}
+            as a Blockchain Developer. Have sound knowledge of Web 3.0,
+            Ethereum, Binance Chain, NFT&apos;s, Defi, Crypto Banks, and
+            currently building.{" "}
+            <a
+              className="underline hover:text-white"
+              target="blank"
+              href="https://www.youtube.com/watch?v=JxR08Ba55v0"
+            >
+              I have been interviewed with the Code Eater channel, which is
+              India&apos;s first Blockchain Tutorial platform in Hindi.
+            </a>
           </p>
         </div>
 

@@ -12,9 +12,11 @@ function Skills() {
             Skills & Technologies
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Below mentioned is the skillset that I have learned in a span of 1
+            year, and my aim is to build a Safe Decentralised Haven for users.{" "}
+            <br />
+            Appreciations and Feedbacks motivates me, so soon I am gonna put up
+            a feedback/contact section to this website.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2">

@@ -4,10 +4,10 @@ import Image from "next/image";
 function About() {
   return (
     <section>
-      <div className="container mx-auto flex px-10 flex-col md:flex-row mt-10">
+      <div className="container mx-auto flex px-10 flex-col md:flex-row my-10">
         <div
           className="lg:text-start md:mb-0 md:items-start lg:pr-24 md:pr-16  md:w-1/2 grow 
-      items-start text-start flex mb-12 flex-col"
+      items-start text-start flex mb-6 flex-col"
         >
           <h2 className="title-font sm:text-4xl text-3xl font-medium mb-4 text-white">
             Hi I am Karan.

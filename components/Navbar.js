@@ -4,8 +4,8 @@ import Link from "next/link";
 function Navbar() {
   return (
     <div
-      className="sm:flex-row p-2 pt-1 flex flex-col items-center relative
-      justify-start bg-[#1e293b] w-full "
+      className="sm:flex-row p-2 pt-3 sm:pt-0 flex flex-col items-center relative
+      justify-start bg-[#1e293b] w-full"
     >
       <Link href="/">
         <a className="sm:mx-4 flex font-bold  text-white ">

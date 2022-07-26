@@ -24,8 +24,7 @@ function About() {
               Warlands
             </a>{" "}
             as a Blockchain Developer. Have sound knowledge of Web 3.0,
-            Ethereum, Binance Chain, NFT&apos;s, Defi, Crypto Banks, and
-            currently building.{" "}
+            Ethereum, Binance Chain, NFT&apos;s, Defi and Crypto Banks.{" "}
             <a
               className="underline hover:text-white"
               target="blank"

@@ -1,17 +1,16 @@
 export const projects = [
   {
-    title: "MBLOG",
-    url: "https://mblog-66458.web.app/",
-    description: "Decentralised Blogging App",
-    image: "/images/projectImages/mblog.png",
+    title: "Underground Waifus",
+    url: "https://undergroundwaifus.com/buy",
+    description: " NFT Minting website for Trading Card Game",
+    image: "/images/projectImages/undergroundwaifus.png",
   },
   {
-    title: "NFT Marketplace",
-    description: "ERC-721 Marketplace",
-    url: "https://nft-marketplace-next-app.vercel.app/",
-    image: "/images/projectImages/nftMarketplace.png",
+    title: "Underground Waifus NFT Marketplace",
+    description: "NFT Marketplace for Sale / Purchase of Underground Waifus NFTs",
+    url: "https://marketplace.undergroundwaifus.com",
+    image: "/images/projectImages/marketplace.png",
   },
-
   {
     title: "Nakashi",
     description: "NFT Minting with locking feature (One of it's kind)",
@@ -41,6 +40,9 @@ export const projects = [
 ];
 
 export const skills = [
+  "MongoDB",
+  "Quicknode",
+  "TheGraph",
   "Solidity",
   "Next.js",
   "TailwindCss",

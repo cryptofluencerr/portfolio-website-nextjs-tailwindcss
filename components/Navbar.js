@@ -67,7 +67,7 @@ function Navbar() {
         </a>
         <a
           className="p-3 text-gray-400 hover:text-white"
-          href="https://www.instagram.com/cryptofluencerr"
+          href="https://www.instagram.com/karanchauhan.india"
           target="_blank"
           rel="noopener noreferrer"
         >
